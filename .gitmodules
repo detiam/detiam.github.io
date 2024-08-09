@@ -1,0 +1,3 @@
+[submodule "animator"]
+	path = animator
+	url = https://github.com/detiam/animator
